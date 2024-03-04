@@ -2,7 +2,7 @@
 
 # Number of worker processes
 workers = 2
-
+timeout = 600
 # Bind to 0.0.0.0:80
 bind = '0.0.0.0:80'
 
